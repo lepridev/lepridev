@@ -1,5 +1,7 @@
-### Hi there 👋
+Je suis un développeur web et mobile passionné, spécialisé dans la création d'applications et de sites web modernes et intuitifs.
+Mon objectif principal est de développer des expériences utilisateurs uniques en combinant des interfaces esthétiques avec des fonctionnalités robustes. Je suis constamment à l'affût des dernières tendances et technologies, ce qui me permet de créer des solutions innovantes et adaptées aux besoins spécifiques de mes clients.
 
+Dans mes projets récents, j'ai travaillé sur le développement d'applications mobiles pour iOS et Android en utilisant React Native comme technologie. J'ai également réalisé des sites web responsives et optimisés, en utilisant des frameworks tels que React.js, Next.js et TailwindCSS. J'adore bien typé mon codé afin de bien prendre en main l'évolution du code avec TypeScrip
 <!--
 **lepridev/lepridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
