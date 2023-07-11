@@ -1,3 +1,9 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lepridev/lepridev/blob/main/img/picofme.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lepridev/lepridev/blob/main/img/picofme.png?raw=true">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/lepridev/lepridev/blob/main/img/picofme.png?raw=true">
+</picture>
 Je suis un développeur web et mobile passionné, spécialisé dans la création d'applications et de sites web modernes et intuitifs.
 Mon objectif principal est de développer des expériences utilisateurs uniques en combinant des interfaces esthétiques avec des fonctionnalités robustes. Je suis constamment à l'affût des dernières tendances et technologies, ce qui me permet de créer des solutions innovantes et adaptées aux besoins spécifiques de mes clients.
 
